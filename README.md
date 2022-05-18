@@ -70,6 +70,14 @@
 
 [forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
 
+[2048](https://play2048.co)
+
+[hextris](https://hextris.io)
+
+[card against humanity](https://cah-game.herokuapp.com)
+
+[tetris use q to change sides](https://bihanviranga.github.io/tetris-minimal-js/)
+
 [this wouldnt be possible without my friend and his website](https://ttfq.github.io)
 
 #### I will credit me (SpookyDonuts) and my dog as the founders
