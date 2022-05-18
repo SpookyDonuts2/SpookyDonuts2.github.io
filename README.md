@@ -1,3 +1,3 @@
-# The largest heading
-## The second largest heading
-###### The smallest heading
+# h1 The largest heading
+## h2 The second largest heading
+#### h3 The smallest heading
