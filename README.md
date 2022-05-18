@@ -78,6 +78,12 @@
 
 [tetris use q to change sides](https://bihanviranga.github.io/tetris-minimal-js/)
 
+[gba emulator](http://endrift.github.io/gbajs/)
+
+[punchout](https://tulen.github.io/PunchOut/)
+
+
+
 [this wouldnt be possible without my friend and his website](https://ttfq.github.io)
 
 #### I will credit me (SpookyDonuts) and my dog as the founders
