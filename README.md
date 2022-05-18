@@ -1,4 +1,4 @@
-# dumbo supreme website
+# Dumbo Supreme Website
 ## IM RUNNING OUT OF IDEAS
 ## websites
 [emuos](https://emupedia.net/beta/emuos/)
