@@ -9,9 +9,9 @@
 
 [an actually good social midia](https://socialrumbles.com/home/)
 
-###  chat
+##  chat
 [chat 2.0](https://chat-20.micahmccool.repl.co)
-#### games
+## games
 [Super Mario 64](https://translatereader.us/archive/g/sm64)
 
 [cookie clicker](https://translatereader.us/archive/g/cookieclicker/)
@@ -69,3 +69,7 @@
 [insult gen](https://replit.com/@micahmccool/verbal-abuse#Main.java)
 
 [forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
+
+[this wouldnt be possible without my friend and his website](https://ttfq.github.io)
+
+#### I will credit me (SpookyDonuts) and my dog as the founders
