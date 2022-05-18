@@ -7,6 +7,8 @@
 
 [incog.dev](https://incog.dev)
 
+[a list of random proxies my frin made](https://ttfq.github.io/amongsus/proxys.txt)
+
 [an actually good social midia](https://socialrumbles.com/home/)
 
 ##  chat
@@ -18,7 +20,11 @@
 
 [takio sim](https://taiko.bui.pm)
 
+[celest](https://ttfq.github.io/celeste/)
+
 [celest 2](https://v6p9d9t4.ssl.hwcdn.net/html/3276960/index.html)
+
+[pullywog](https://v6p9d9t4.ssl.hwcdn.net/html/4737935/index.html)
 
 [n64 games](https://n64.endinternetcensorship.repl.co)
 
@@ -68,8 +74,6 @@
 
 [insult gen](https://replit.com/@micahmccool/verbal-abuse#Main.java)
 
-[forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
-
 [2048](https://play2048.co)
 
 [hextris](https://hextris.io)
@@ -82,8 +86,16 @@
 
 [punchout](https://tulen.github.io/PunchOut/)
 
+[run](https://player03.com/run/1/beta/)
 
+[run 3](https://player03.com/run/3/beta/)
+
+[retro bowl](https://ttfq.github.io/retrobowl/)
 
 [this wouldnt be possible without my friend and his website](https://ttfq.github.io)
 
 #### I will credit me (SpookyDonuts) and my dog as the founders
+
+#### Send requests in the forum
+
+[forum]([forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
