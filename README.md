@@ -13,7 +13,7 @@
 
 ##  chat
 [chat 2.0](https://chat-20.micahmccool.repl.co)
-## games
+## games (if they dont work put the url in incog.dev or holy unblocker)
 [Super Mario 64](https://translatereader.us/archive/g/sm64)
 
 [cookie clicker](https://translatereader.us/archive/g/cookieclicker/)
@@ -90,7 +90,15 @@
 
 [run 3](https://player03.com/run/3/beta/)
 
+[random games](https://yandex.com/games/)
+
 [retro bowl](https://ttfq.github.io/retrobowl/)
+
+[more random games](https://ellieeet123.github.io)
+
+[evan more games (for games look at the progects section)](https://3kh0.github.io) 
+
+
 
 [this wouldnt be possible without my friend and his website](https://ttfq.github.io)
 
