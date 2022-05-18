@@ -106,4 +106,4 @@
 
 #### Send requests in the forum
 
-[forum]([forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
+[forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
