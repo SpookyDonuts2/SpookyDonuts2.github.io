@@ -114,6 +114,8 @@
 
 [ps1 games(if it wont owrk put the url into a web proxy)](https://emulatorgames.online/games/ps1)
 
+[sega genisis games(if it wont owrk put the url into a web proxy)](https://www.emulatorgames.net/roms/sega-genesis/)
+
 # Crediting people
 
 [this wouldnt be possible without my friend and his website](https://ttfq.github.io)
