@@ -106,7 +106,7 @@
 
 [doom2](https://js-dos.com/games/doom2.exe.html)
 
-(extra n64 games(if it wont owrk put the url into a web proxy)](https://www.emulatoronline.net/games/nintendo-64-n64)
+[extra n64 games(if it wont owrk put the url into a web proxy)](https://www.emulatoronline.net/games/nintendo-64-n64)
 
 [nes games(if it wont owrk put the url into a web proxy)](https://myemulator.online/nes)
 
