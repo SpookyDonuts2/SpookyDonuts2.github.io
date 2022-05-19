@@ -100,6 +100,20 @@
 
 [MORE games](https://m28.studio)
 
+[skribl.io(if it wont owrk put the url into a web proxy)](https://skribbl.io)
+
+[doom](https://js-dos.com/games/doom.exe.html)
+
+[doom2](https://js-dos.com/games/doom2.exe.html)
+
+(extra n64 games(if it wont owrk put the url into a web proxy)](https://www.emulatoronline.net/games/nintendo-64-n64)
+
+[nes games(if it wont owrk put the url into a web proxy)](https://myemulator.online/nes)
+
+[snes games(if it wont owrk put the url into a web proxy)](https://snesnow.com)
+
+[ps1 games(if it wont owrk put the url into a web proxy)](https://emulatorgames.online/games/ps1)
+
 
 
 [this wouldnt be possible without my friend and his website](https://ttfq.github.io)
