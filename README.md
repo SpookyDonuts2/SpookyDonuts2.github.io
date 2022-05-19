@@ -120,6 +120,6 @@
 
 #### I will credit me (SpookyDonuts) and my dog as the founders
 
-#### Send requests in the forum
+# Send requests in the forum
 
 [forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
