@@ -13,6 +13,7 @@
 
 ##  chat
 [chat 2.0](https://chat-20.micahmccool.repl.co)
+
 ## games (if they dont work put the url in incog.dev or holy unblocker)
 [Super Mario 64](https://translatereader.us/archive/g/sm64)
 
@@ -112,7 +113,7 @@
 
 [snes games(if it wont owrk put the url into a web proxy)](https://snesnow.com)
 
-[ps1 games(if it wont owrk put the url into a web proxy)](https://emulatorgames.online/games/ps1)
+[ps1 games(if it wont owrk put the url into a web proxy)(the loading takes a while)](https://emulatorgames.online/games/ps1)
 
 [sega genisis games(if it wont owrk put the url into a web proxy)](https://www.emulatorgames.net/roms/sega-genesis/)
 
