@@ -63,6 +63,8 @@
 
 [flash games](https://ttfq.github.io/amongsus/flash/)
 
+[more flash games](https://holy-unblocker.jonasflynn.repl.co/?f)
+
 [arson clicker](https://arson-clicker.micahmccool.repl.co)
 
 [scratch terraria](https://scratch.mit.edu/projects/322341152/fullscreen/)
