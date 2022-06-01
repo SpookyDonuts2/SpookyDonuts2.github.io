@@ -15,7 +15,7 @@
 [chat 2.0](https://chat-20.micahmccool.repl.co)
 
 ## games (if they dont work put the url in incog.dev or holy unblocker)
-[Super Mario 64](https://translatereader.us/archive/g/sm64)
+[Super Mario 64](https://translatereader.us/1/1.html?id=50048w9aynm)
 
 [cookie clicker](https://translatereader.us/archive/g/cookieclicker/)
 
