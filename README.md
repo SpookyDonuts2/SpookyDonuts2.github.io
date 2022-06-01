@@ -157,5 +157,20 @@
 
 ![Far Cry® beeg cow](https://user-images.githubusercontent.com/105773513/171331456-9b3fb5c0-b084-4c06-80dd-61e99b735cc6.jpg)
 
+# image of creators
+
+### spookydonuts
+
+![image_2022-06-01_143308787](https://user-images.githubusercontent.com/105773513/171486933-2dcd7e91-d512-4ca4-a598-15acd48d3edd.png)
+
+### and his dog (yes its a random picture because github wont support the file type of my actual dogs pic)
+
+![Jack-Russell-Rat-Terrier-Mix](https://user-images.githubusercontent.com/105773513/171487312-c925ad51-a8d9-484f-a2a8-2e75a1e27277.jpg)
+
+
+
+
+
+
 
 
