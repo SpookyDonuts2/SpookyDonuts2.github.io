@@ -136,3 +136,5 @@
 [forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
 
 #ps dont spam the forum pls only one request per person per day
+
+[Read more words!](docs/more_words.md)
