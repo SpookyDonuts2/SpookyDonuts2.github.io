@@ -137,4 +137,4 @@
 
 #ps dont spam the forum pls only one request per person per day
 
-[Read more words!](docs/more_words.md)
+![Animated gif](animation.gif "Animation that shows auto completion")
