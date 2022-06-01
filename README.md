@@ -142,6 +142,7 @@
 #why are people still requesting soo mutch the school year is over for now pls chill
 
 #links to websites people want me to add for them to download crap
+
 [curseforge](https://download.curseforge.com)
 
 [wikihow and yes i didnt wana add this but it was spammed](https://www.wikihow.com/Find-Your-Stolen-Phone?gclid=Cj0KCQjw-daUBhCIARIsALbkjSa97MlA5EKmfyhtR2LXgcKD_-C_SXTmql1-ikmzrsVv0CT2tW-KJG4aAmliEALw_wcB)
