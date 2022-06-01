@@ -136,5 +136,20 @@
 [forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
 
 #ps dont spam the forum pls only one request per person per day
+![Build Status](https://travis-ci.org/Tarrasch/zsh-bd.png)](https://travis-ci.org/Tarrasch/zsh-bd)
+
+mkdir -p $HOME/.zsh/plugins/bd
+    curl https://raw.githubusercontent.com/Tarrasch/zsh-bd/master/bd.zsh > $HOME/.zsh/plugins/bd/bd.zsh
+    print -- "\n# zsh-bd\n. \$HOME/.zsh/plugins/bd/bd.zsh" >> $HOME/.zshrc
+    
+ $ mkdir -p a/b/c/d
+    $ cd a/b/c/d
+    $ bd b
+    $ ls
+    c
+    $ cd c/d
+    $ bd 2
+    $ ls
+    c
 
 ![Animated gif](animation.gif "Animation that shows auto completion")
