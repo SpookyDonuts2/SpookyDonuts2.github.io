@@ -141,7 +141,7 @@
 
 ### why are people still requesting soo mutch the school year is over for now pls chill
 
-### links to websites people want me to add for them to download crap
+# links to websites people want me to add for them to download crap
 
 [curseforge](https://download.curseforge.com)
 
