@@ -161,7 +161,8 @@
 
 ### spookydonuts
 
-![image_2022-06-01_143308787](https://user-images.githubusercontent.com/105773513/171486933-2dcd7e91-d512-4ca4-a598-15acd48d3edd.png)
+![dumperman](https://user-images.githubusercontent.com/105773513/171487379-75cf5f5f-13a3-45b7-9df0-7d4ee324d3ab.jpg)
+
 
 ### and his dog (yes its a random picture because github wont support the file type of my actual dogs pic)
 
