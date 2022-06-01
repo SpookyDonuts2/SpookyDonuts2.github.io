@@ -154,7 +154,7 @@
 
 #image of cunky cow
 
-![Far Cry® beeg cow](https://user-images.githubusercontent.com/105773513/171330986-863f56a3-8bf8-4587-8df9-03d1ee507d97.jpg)
+![Far Cry® beeg cow](https://user-images.githubusercontent.com/105773513/171331456-9b3fb5c0-b084-4c06-80dd-61e99b735cc6.jpg)
 
 
 
