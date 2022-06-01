@@ -25,7 +25,7 @@
 
 [cookie clicker](https://translatereader.us/archive/g/cookieclicker/)
 
-[takio sim](https://taiko.bui.pm)
+[takio sim](https://taiko.lena.moe)
 
 [celest](https://ttfq.github.io/celeste/)
 
@@ -137,11 +137,11 @@
 
 [forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
 
-# ps dont spam the forum pls only one request per person per day
+### ps dont spam the forum pls only one request per person per day
 
-# why are people still requesting soo mutch the school year is over for now pls chill
+### why are people still requesting soo mutch the school year is over for now pls chill
 
-# links to websites people want me to add for them to download crap
+### links to websites people want me to add for them to download crap
 
 [curseforge](https://download.curseforge.com)
 
