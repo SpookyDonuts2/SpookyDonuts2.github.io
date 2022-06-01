@@ -125,6 +125,19 @@
 
 [unblocked games mom](https://sites.google.com/view/unblocked-games-mom/)
 
+### pokemon games
+
+[pokemon ruby](https://translatereader.us/1/1.html?id=kcm0v8qscqk)
+
+[pokemon yellow](https://translatereader.us/1/1.html?id=a978hty78p8)
+
+[the japan only releace pokemon green](https://translatereader.us/1/1.html?id=yi8nbkigru9)
+
+[pokemon leaf green](https://translatereader.us/1/1.html?id=uilx7i4ump)
+
+[pokemon crystal](https://translatereader.us/1/1.html?id=7xxjmks9tjx)
+
+
 # Crediting people
 
 [this wouldnt be possible without my friend and his website](https://ttfq.github.io)
