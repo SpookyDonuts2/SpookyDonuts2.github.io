@@ -131,6 +131,8 @@
 
 #### I will credit me (SpookyDonuts) and my dog as the founders
 
+### contact me at spookynut9000@gmail.com
+
 # Send requests in the forum
 
 [forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
@@ -138,3 +140,21 @@
 #ps dont spam the forum pls only one request per person per day
 
 #why are people still requesting soo mutch the school year is over for now pls chill
+
+#links to websites people want me to add for them to download crap
+[curseforge](https://download.curseforge.com)
+
+[wikihow and yes i didnt wana add this but it was spammed](https://www.wikihow.com/Find-Your-Stolen-Phone?gclid=Cj0KCQjw-daUBhCIARIsALbkjSa97MlA5EKmfyhtR2LXgcKD_-C_SXTmql1-ikmzrsVv0CT2tW-KJG4aAmliEALw_wcB)
+
+[wikipidia (why did you want this here)](https://en.wikipedia.org/wiki/Main_Page)
+
+[WHY THIS OF ALL THINGS](https://www.duolingo.com)
+
+[ok no more dumb crap pls](https://www.google.com)
+
+#image of cunky cow
+
+![Far Cry® beeg cow](https://user-images.githubusercontent.com/105773513/171330986-863f56a3-8bf8-4587-8df9-03d1ee507d97.jpg)
+
+
+
