@@ -137,11 +137,11 @@
 
 [forum](https://docs.google.com/forms/d/e/1FAIpQLSefWmlSdB25k-iiU_XJozNjCkqZEktAbXNqRoIWDg1InA0_Qw/viewform)
 
-#ps dont spam the forum pls only one request per person per day
+# ps dont spam the forum pls only one request per person per day
 
-#why are people still requesting soo mutch the school year is over for now pls chill
+# why are people still requesting soo mutch the school year is over for now pls chill
 
-#links to websites people want me to add for them to download crap
+# links to websites people want me to add for them to download crap
 
 [curseforge](https://download.curseforge.com)
 
@@ -153,7 +153,7 @@
 
 [ok no more dumb crap pls](https://www.google.com)
 
-#image of cunky cow
+# image of cunky cow
 
 ![Far Cry® beeg cow](https://user-images.githubusercontent.com/105773513/171331456-9b3fb5c0-b084-4c06-80dd-61e99b735cc6.jpg)
 
