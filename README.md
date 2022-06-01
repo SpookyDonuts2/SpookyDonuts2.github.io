@@ -15,6 +15,8 @@
 [chat 2.0](https://chat-20.micahmccool.repl.co)
 
 ## games (if they dont work put the url in incog.dev or holy unblocker)
+[i did it i have added ps1 games and heree they are](https://www.youtube.com/watch?v=cKgoKqh9KCs&list=LL&index=32)
+
 [stolen code from a offbrand pokemon hml demo](https://spookydonuts2.github.io/pokemon-style-game/)
 
 [Stolen code from a fighting hml demo](https://spookydonuts2.github.io/fighting-game/)
