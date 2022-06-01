@@ -19,7 +19,7 @@
 
 [Stolen code from a fighting hml demo](https://spookydonuts2.github.io/fighting-game/)
 
-[Super Mario 64](https://translatereader.us/1/1.html?id=50048w9aynm)
+[Super Mario 64 + more now](https://translatereader.us/1/1.html?id=50048w9aynm)
 
 [cookie clicker](https://translatereader.us/archive/g/cookieclicker/)
 
