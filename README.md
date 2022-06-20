@@ -1,6 +1,7 @@
 # Dumbo Supreme Website
 ## IM RUNNING OUT OF IDEAS
 ## websites
+
 [emuos](https://emupedia.net/beta/emuos/)
 
 [holy unblocker](https://translatereader.us/gtools.html)
@@ -21,15 +22,15 @@
 
 [Stolen code from a fighting hml demo](https://spookydonuts2.github.io/fighting-game/)
 
-[Super Mario 64 + more now](https://translatereader.us/1/1.html?id=50048w9aynm)
+[Super Mario 64 + more now (because people are dumb i have to say hit the fullscreen buton)](https://translatereader.us/1/1.html?id=50048w9aynm)
 
 [cookie clicker](https://translatereader.us/archive/g/cookieclicker/)
 
 [takio sim](https://taiko.lena.moe)
 
-[celest](https://ttfq.github.io/celeste/)
+[celest (mobile support too)](https://ttfq.github.io/celeste/)
 
-[celest 2](https://v6p9d9t4.ssl.hwcdn.net/html/3276960/index.html)
+[celest 2 (mobile support too)](https://v6p9d9t4.ssl.hwcdn.net/html/3276960/index.html)
 
 [pullywog](https://v6p9d9t4.ssl.hwcdn.net/html/4737935/index.html)
 
@@ -159,6 +160,12 @@
 # links to websites people want me to add for them to download crap
 
 [curseforge](https://download.curseforge.com)
+
+[rom station](https://www.romstation.fr/installation)
+
+[valorant](https://playvalorant.com/en-us/?gclid=Cj0KCQjwkruVBhCHARIsACVIiOzrGNpjOvCG69vU58oxVdw7oPTEx4zbddBLngqEokiiFD0vb2kULQUaAgNTEALw_wcB&gclsrc=aw.ds)
+
+#random websites
 
 [wikihow and yes i didnt wana add this but it was spammed](https://www.wikihow.com/Find-Your-Stolen-Phone?gclid=Cj0KCQjw-daUBhCIARIsALbkjSa97MlA5EKmfyhtR2LXgcKD_-C_SXTmql1-ikmzrsVv0CT2tW-KJG4aAmliEALw_wcB)
 
