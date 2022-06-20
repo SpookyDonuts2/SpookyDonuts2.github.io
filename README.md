@@ -192,10 +192,6 @@
 ![Jack-Russell-Rat-Terrier-Mix](https://user-images.githubusercontent.com/105773513/171487312-c925ad51-a8d9-484f-a2a8-2e75a1e27277.jpg)
 
 
-# funny jschlatt clips
-
-[what happened to the penutbutter](https://www.youtube.com/watch?v=cKgoKqh9KCs&list=LL&index=32)
-
 
 
 
